@@ -13,3 +13,4 @@ YMMV
    // 8488 characters divided by 4 = 2122 words, so 2121 is the largest random number we can have
     randomnumber = random(0,2121); // Get a random number between 0 and 2121 (return is float)
 ```
+Uses this library: https://github.com/ontuo/DL2416-Arduino-library
