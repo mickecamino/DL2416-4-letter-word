@@ -15,6 +15,6 @@ YMMV
 ```
 Uses this library: https://github.com/ontuo/DL2416-Arduino-library
 
-You can find SAOL's Ordlista here, but you need to select out all 4-letter words without extended characters and made all of them UPPERCASE.
+~~You can find SAOL's Ordlista here, but you need to select out all 4-letter words without extended characters and made all of them UPPERCASE.~~
 
-https://github.com/almgru/svenska-ord.txt
+~~https://github.com/almgru/svenska-ord.txt~~
